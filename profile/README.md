@@ -1,6 +1,6 @@
 # KamiLand Network
 
-![KamiLand Network Logo](https://www.kamiland.net/wp-content/uploads/2024/02/KamiLand_Purple.png)
+![KamiLand Network Logo](KamiLand_Red_Cutted.png)
 
 KamiLand Network 是一个精英团队，专门从事 Minecraft 服务器等产品的创建和维护。我们的目标是通过科技创新，向广大用户提供更优质的电子游戏体验。
 
